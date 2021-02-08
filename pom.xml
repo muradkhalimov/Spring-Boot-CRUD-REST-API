@@ -12,7 +12,7 @@
 	<artifactId>crud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>crud</name>
-	<description>Spring Boot PostgreSQL JPA, Hibernate CRUD Restful API</description>
+	<description>Spring Boot PostgreSQL JPA, CRUD Restful API</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
